@@ -1,0 +1,17 @@
+gunicorn
+flask
+flask_httpauth
+werkzeug
+requests
+opencv-python
+numpy
+tensorflow
+googletrans==4.0.0-rc.1
+scikit-learn
+joblib
+nltk
+regex
+onnx
+onnxruntime
+PIL
+pytesseract
